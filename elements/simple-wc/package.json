@@ -44,8 +44,8 @@
   },
   "devDependencies": {
     "@lrnwebcomponents/deduping-fix": "^2.6.8",
-    "@webcomponents/webcomponentsjs": "2.4.1",
-    "concurrently": "5.1.0",
+    "@webcomponents/webcomponentsjs": "2.4.3",
+    "concurrently": "5.2.0",
     "gulp-babel": "8.0.0",
     "gulp-sourcemaps": "2.6.5",
     "lodash": "4.17.15",
